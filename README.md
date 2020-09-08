@@ -1,2 +1,1 @@
-# TripleC
-DuocUC
+# PaginaBootstrap
